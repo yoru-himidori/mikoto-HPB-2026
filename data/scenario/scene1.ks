@@ -45,9 +45,9 @@
 [anim_role_button_visible]
 [clearfix name="skip_fix"]
 [bg storage="jinkokyo.jpg" time="500"]
+
+[p]
 [playbgm storage="oyasumiday.ogg"  ]
-
-
 #
 2026年4月18日。[r]
 今日は私たちのみことくんのお誕生日だ。[p]
