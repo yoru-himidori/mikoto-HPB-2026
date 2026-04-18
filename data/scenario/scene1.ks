@@ -3,7 +3,6 @@
 [cm  ]
 [clearfix]
 [start_keyconfig]
-[p]
 [fadeoutbgm]
 
 
@@ -45,8 +44,8 @@
 [anim_role_button_visible]
 [clearfix name="skip_fix"]
 [bg storage="jinkokyo.jpg" time="500"]
-
-;[playbgm storage="oyasumiday.ogg"  ]
+[p]
+[playbgm storage="oyasumiday.mp3"  ]
 #
 2026年4月18日。[r]
 今日は私たちのみことくんのお誕生日だ。[p]
@@ -57,7 +56,7 @@
 
 #天野命
 
-[playse  storage="pa.mp3"  ]
+[playse  storage="paface"  ]
 [chara_part  name="miko"  sotai="1"  mayu="1"  eye="1"  mouth="4"  ]
 「僕は今日で4歳になりました！」[p]
 「教徒の皆さん、未熟な僕のことを見守ってくれてありがとうございます」[p]
@@ -70,7 +69,7 @@
 
 [chara_show name="tasu" time="100" left="390"]
 
-[playse  storage="pa.mp3"  ]
+[playse  storage="paface"  ]
 #天野佑
 [chara_part  name="tasu"  sotai="1"  face="2"  ]
 「みことがこんなにしっかりした子に育つとは」[p]
@@ -79,14 +78,14 @@
 「ほんとうですね。生まれたてのときとは大違い」[p]
 #天野佑
 
-[playse  storage="pin.mp3"  ]
+[playse  storage="pinface"  ]
 [chara_part  name="tasu"  sotai="2"  face="2"  ]
 「あの頃のみことも可愛いですが、今のみこともがんばり屋さんで立派です」[p]
 [chara_part  name="tasu"  sotai="2"  face="3"  ]
 [chara_hide_all time="100"]
 [free_filter  ]
 
-[playse  storage="kurakka.mp3"  ]
+[playse  storage="kurakkaface"  ]
 #
 スピーチを済ませると壇上から降り、自分の席へと戻る。[p]
 
@@ -100,7 +99,7 @@
 
 #天野命
 
-[playse  storage="pa.mp3"  ]
+[playse  storage="paface"  ]
 「えへへ、ありがとうございます！」[p]
 「なんてったって、お兄ちゃんの弟ですから！」[p]
 
@@ -131,7 +130,7 @@
 [chara_show name="miko" time="100" left="390"]
 
 
-[playse  storage="pa.mp3"  ]
+[playse  storage="paface"  ]
 #天野命
 「はーい。藤堂、おつおつー。[r]
 ありがとね、片付けとかしてもらって」[p]
@@ -145,7 +144,7 @@
 [chara_part  name="miko"  sotai="3"  mayu="3"  eye="3"  mouth="2"  ]
 「えー？なになにー？」[p]
 
-[playse  storage="pin.mp3"  ]
+[playse  storage="pinface"  ]
 「僕ってウルトラ宗教経営者のハイパー卵だしい？[r]
 ちょーっとお高いものくらいじゃ～、心動かないよー？」[p]
 [chara_part  name="miko"  sotai="3"  mayu="3"  eye="3"  mouth="3"  ]
@@ -176,7 +175,7 @@
 #天野命
 [chara_part  name="miko"  mouth="7"  sotai="1"  mayu="2"  eye="4" ase="1" ]
 「……………」[p]
-[playse  storage="doon.mp3"  ]
+[playse  storage="doonface"  ]
 [quake  count="2"  vmax="0"  hmax="5"  time="500"  ]
 [font  size="29"  ]
 
@@ -188,7 +187,7 @@
 「お前に使ってほしくて給料渡してるんですけど！」[p]
 
 [chara_part  name="miko"  mouth="6"  sotai="3"  mayu="2"  eye="4"  ]
-[playse  storage="doon.mp3"  ]
+[playse  storage="doonface"  ]
 [quake  count="2"  vmax="0"  hmax="5"  time="500"  ]
 
 「いやその前にさ！[r]
@@ -211,7 +210,7 @@
 [chara_part  name="miko"  sotai="3"  mayu="2"  mouth="6"  eye="1"  ]
 
 [font  size="29"  ]
-[playse  storage="doon.mp3"  ]
+[playse  storage="doonface"  ]
 
 [quake  count="2"  vmax="0"  hmax="5"  time="500"  ]
 「それなら一緒に買いにいこーーーーよーーーー！」[p]
@@ -229,7 +228,7 @@
 [chara_part  name="miko"  mouth="2"  sotai="1"  mayu="4"  eye="1"  ]
 「そうだなあ。どこ行こっかなー……」[p]
 
-[playse  storage="pin.mp3"  ]
+[playse  storage="pinface"  ]
 「……ねー、僕、３人で映画見に行きたーい。[r]
 『採光のおさなむし』の映画版やってるんだって」[p]
 [chara_part  name="miko"  sotai="1"  mayu="4"  mouth="1"  eye="1"  ]
@@ -239,7 +238,7 @@
 
 #天野命
 
-[playse  storage="pa.mp3"  ]
+[playse  storage="paface"  ]
 [chara_part  name="miko"  mouth="5"  sotai="3"  mayu="1"  eye="2"  ]
 「えへへ。やったー！」[p]
 「めっちゃ、めーっちゃ！　楽しみにしてるねーっ！」[p]
@@ -255,12 +254,12 @@
 
 [chara_move  name="miko"  left="390"  anim="true"  time="600"  ]
 
-[playse  storage="pa.mp3"  ]
+[playse  storage="paface"  ]
 #天野命
 [chara_part  name="miko"  sotai="2"  mouth="1"  eye="4"  mayu="4"  ase="none"  ]
 「え！　まじ？　ありがとう～。……」[p]
 
-[playse  storage="pin.mp3"  ]
+[playse  storage="pinface"  ]
 [chara_part  name="miko"  sotai="1"  mouth="7"  eye="3"  mayu="4"  ase="none"  ]
 「え？　待ってよ。いつの間にこんなの作ったのー？」[p]
 [chara_part  name="miko"  sotai="1"  mouth="3"  eye="3"  mayu="4"  ase="none"  ]
@@ -272,7 +271,7 @@
 「お兄ちゃんは手作りのミニエッグタルトくれたんだよね」[p]　
 「……」[p]
 
-[playse  storage="pin.mp3"  ]
+[playse  storage="pinface"  ]
 「……ふたりで一緒に作ったの？」[p]
 [chara_part  name="miko"  sotai="1"  mouth="1"  eye="3"  mayu="4"  ase="none"  ]
 #藤堂
@@ -281,7 +280,7 @@
 「嫌だった？」[p]
 #天野命
 
-[playse  storage="pop_ase.mp3"  ]
+[playse  storage="pop_aseface"  ]
 [chara_part  name="miko"  sotai="1"  mouth="7"  eye="3"  mayu="2"  ase="none"  ]
 「や。プレゼントは嬉しいけど」[p]
 
@@ -314,7 +313,7 @@ mouth元から嬉しさはしっかり滲み出ている。[r]
 「あはは、ごめんね」[p]
 「じゃあ、今度は一緒にクッキー作ろう。お兄ちゃんも誘って」[p]
 
-[playse  storage="pa.mp3"  ]
+[playse  storage="paface"  ]
 #天野命
 [chara_part  name="miko"  sotai="3"  mouth="2"  eye="2"  mayu="1"  ase="none"  ]
 「うんっ！　やったーーっ！」[p]
@@ -373,7 +372,7 @@ mouth元から嬉しさはしっかり滲み出ている。[r]
 「……どう？　神妙なfaceしてるけど」[p]
 #天野命
 
-[playse  storage="pin.mp3"  ]
+[playse  storage="pinface"  ]
 [chara_part  name="miko"  sotai="2"  mouth="1"  eye="3"  mayu="3"  ase="none"  ]
 「かわいっ」[p]
 #藤堂
@@ -387,7 +386,7 @@ mouth元から嬉しさはしっかり滲み出ている。[r]
 #藤堂
 「もちろん」[p]
 #天野命
-[playse  storage="pop_ase.mp3"  ]
+[playse  storage="pop_aseface"  ]
 「恥っず」[p]
 [chara_part  name="miko"  sotai="3"  mouth="4"  eye="3"  mayu="3"  ase="none"  ]
 「いや、今でも可愛いと思うの！　めっちゃ好き」[p]
@@ -399,7 +398,7 @@ mouth元から嬉しさはしっかり滲み出ている。[r]
 「どうしよー」[p]
 [chara_part  name="miko"  sotai="1"  mayu="3"  mouth="7"  eye="3"  ]
 「長ーく使う、私的なものがいいよね……」[p]
-[playse  storage="pin.mp3"  ]
+[playse  storage="pinface"  ]
 [chara_part  name="miko"  sotai="3"  mouth="2"  eye="1"  mayu="2"  ase="none"  ]
 「あ、そういえば！」[p]
 [chara_part  name="miko"  sotai="3"  mouth="2"  eye="2"  mayu="4"  ase="none"  ]
@@ -412,7 +411,7 @@ mouth元から嬉しさはしっかり滲み出ている。[r]
 [chara_part  name="miko"  sotai="3"  mouth="5"  eye="2"  mayu="4"  ase="none"  ]
 [font  size="29"  ]
 
-[playse  storage="pa.mp3"  ]
+[playse  storage="paface"  ]
 「つくるー！」[p]
 [resetfont  ]
 「えへへ、かわいくするぞー！」[p]
