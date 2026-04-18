@@ -3,7 +3,7 @@
 [cm  ]
 [clearfix]
 [start_keyconfig]
-
+[p]
 [fadeoutbgm]
 
 
@@ -46,7 +46,7 @@
 [clearfix name="skip_fix"]
 [bg storage="jinkokyo.jpg" time="500"]
 
-[p]
+
 [playbgm storage="oyasumiday.ogg"  ]
 #
 2026年4月18日。[r]
