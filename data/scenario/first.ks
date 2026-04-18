@@ -105,54 +105,54 @@
 ;天野佑===============
 [chara_new name="tasu" jname="天野佑" storage="_chara/tasu/transparent.png" ]
 
-;素体
-[chara_layer  name="tasu"  part="素体"  id="1"  storage="_chara/tasu/素体/1.png"  zindex="1"  ]
-[chara_layer  name="tasu"  part="素体"  id="2"  storage="_chara/tasu/素体/2.png"  zindex="1"  ]
-[chara_layer  name="tasu"  part="素体"  id="none"  storage="none"  zindex="1"  ]
+;sotai
+[chara_layer  name="tasu"  part="sotai"  id="1"  storage="_chara/tasu/sotai/1.png"  zindex="1"  ]
+[chara_layer  name="tasu"  part="sotai"  id="2"  storage="_chara/tasu/sotai/2.png"  zindex="1"  ]
+[chara_layer  name="tasu"  part="sotai"  id="none"  storage="none"  zindex="1"  ]
 
-;顔
-[chara_layer  name="tasu"  part="顔"  id="1"  storage="_chara/tasu/顔/1.png"  zindex="2"  ]
-[chara_layer  name="tasu"  part="顔"  id="2"  storage="_chara/tasu/顔/2.png"  zindex="2"  ]
-[chara_layer  name="tasu"  part="顔"  id="3"  storage="_chara/tasu/顔/3.png"  zindex="2"  ]
-[chara_layer  name="tasu"  part="顔"  id="none"  storage="none"  zindex="2"  ]
+;face
+[chara_layer  name="tasu"  part="face"  id="1"  storage="_chara/tasu/face/1.png"  zindex="2"  ]
+[chara_layer  name="tasu"  part="face"  id="2"  storage="_chara/tasu/face/2.png"  zindex="2"  ]
+[chara_layer  name="tasu"  part="face"  id="3"  storage="_chara/tasu/face/3.png"  zindex="2"  ]
+[chara_layer  name="tasu"  part="face"  id="none"  storage="none"  zindex="2"  ]
 
 
 ;天野命===============
 [chara_new name="miko" jname="天野命" storage="_chara/miko/transparent.png" ]
 
-;素体
-[chara_layer  name="miko"  part="素体"  id="1"  storage="_chara/miko/素体/1.png"  zindex="1"  ]
-[chara_layer  name="miko"  part="素体"  id="2"  storage="_chara/miko/素体/2.png"  zindex="1"  ]
-[chara_layer  name="miko"  part="素体"  id="3"  storage="_chara/miko/素体/3.png"  zindex="1"  ]
-[chara_layer  name="miko"  part="素体"  id="none"  storage="none"  zindex="1"  ]
+;sotai
+[chara_layer  name="miko"  part="sotai"  id="1"  storage="_chara/miko/sotai/1.png"  zindex="1"  ]
+[chara_layer  name="miko"  part="sotai"  id="2"  storage="_chara/miko/sotai/2.png"  zindex="1"  ]
+[chara_layer  name="miko"  part="sotai"  id="3"  storage="_chara/miko/sotai/3.png"  zindex="1"  ]
+[chara_layer  name="miko"  part="sotai"  id="none"  storage="none"  zindex="1"  ]
 
-;口
-[chara_layer  name="miko"  part="口"  id="1"  storage="_chara/miko/口/1.png"  zindex="2"  ]
-[chara_layer  name="miko"  part="口"  id="2"  storage="_chara/miko/口/2.png"  zindex="2"  ]
-[chara_layer  name="miko"  part="口"  id="3"  storage="_chara/miko/口/3.png"  zindex="2"  ]
-[chara_layer  name="miko"  part="口"  id="4"  storage="_chara/miko/口/4.png"  zindex="2"  ]
-[chara_layer  name="miko"  part="口"  id="5"  storage="_chara/miko/口/5.png"  zindex="2"  ]
-[chara_layer  name="miko"  part="口"  id="6"  storage="_chara/miko/口/6.png"  zindex="2"  ]
-[chara_layer  name="miko"  part="口"  id="7"  storage="_chara/miko/口/7.png"  zindex="2"  ]
-[chara_layer  name="miko"  part="口"  id="none"  storage="none"  zindex="2"  ]
+;mouth
+[chara_layer  name="miko"  part="mouth"  id="1"  storage="_chara/miko/mouth/1.png"  zindex="2"  ]
+[chara_layer  name="miko"  part="mouth"  id="2"  storage="_chara/miko/mouth/2.png"  zindex="2"  ]
+[chara_layer  name="miko"  part="mouth"  id="3"  storage="_chara/miko/mouth/3.png"  zindex="2"  ]
+[chara_layer  name="miko"  part="mouth"  id="4"  storage="_chara/miko/mouth/4.png"  zindex="2"  ]
+[chara_layer  name="miko"  part="mouth"  id="5"  storage="_chara/miko/mouth/5.png"  zindex="2"  ]
+[chara_layer  name="miko"  part="mouth"  id="6"  storage="_chara/miko/mouth/6.png"  zindex="2"  ]
+[chara_layer  name="miko"  part="mouth"  id="7"  storage="_chara/miko/mouth/7.png"  zindex="2"  ]
+[chara_layer  name="miko"  part="mouth"  id="none"  storage="none"  zindex="2"  ]
 
-;目
-[chara_layer  name="miko"  part="目"  id="1"  storage="_chara/miko/目/1.png"  zindex="3"  ]
-[chara_layer  name="miko"  part="目"  id="2"  storage="_chara/miko/目/2.png"  zindex="3"  ]
-[chara_layer  name="miko"  part="目"  id="3"  storage="_chara/miko/目/3.png"  zindex="3"  ]
-[chara_layer  name="miko"  part="目"  id="4"  storage="_chara/miko/目/4.png"  zindex="3"  ]
-[chara_layer  name="miko"  part="目"  id="none"  storage="none"  zindex="3"  ]
+;eye
+[chara_layer  name="miko"  part="eye"  id="1"  storage="_chara/miko/eye/1.png"  zindex="3"  ]
+[chara_layer  name="miko"  part="eye"  id="2"  storage="_chara/miko/eye/2.png"  zindex="3"  ]
+[chara_layer  name="miko"  part="eye"  id="3"  storage="_chara/miko/eye/3.png"  zindex="3"  ]
+[chara_layer  name="miko"  part="eye"  id="4"  storage="_chara/miko/eye/4.png"  zindex="3"  ]
+[chara_layer  name="miko"  part="eye"  id="none"  storage="none"  zindex="3"  ]
 
-;眉
-[chara_layer  name="miko"  part="眉"  id="1"  storage="_chara/miko/眉/1.png"  zindex="4"  ]
-[chara_layer  name="miko"  part="眉"  id="2"  storage="_chara/miko/眉/2.png"  zindex="4"  ]
-[chara_layer  name="miko"  part="眉"  id="3"  storage="_chara/miko/眉/3.png"  zindex="4"  ]
-[chara_layer  name="miko"  part="眉"  id="4"  storage="_chara/miko/眉/4.png"  zindex="4"  ]
-[chara_layer  name="miko"  part="眉"  id="none"  storage="none"  zindex="4"  ]
+;mayu
+[chara_layer  name="miko"  part="mayu"  id="1"  storage="_chara/miko/mayu/1.png"  zindex="4"  ]
+[chara_layer  name="miko"  part="mayu"  id="2"  storage="_chara/miko/mayu/2.png"  zindex="4"  ]
+[chara_layer  name="miko"  part="mayu"  id="3"  storage="_chara/miko/mayu/3.png"  zindex="4"  ]
+[chara_layer  name="miko"  part="mayu"  id="4"  storage="_chara/miko/mayu/4.png"  zindex="4"  ]
+[chara_layer  name="miko"  part="mayu"  id="none"  storage="none"  zindex="4"  ]
 
-;汗
-[chara_layer  name="miko"  part="汗"  id="1"  storage="_chara/miko/汗/1.png"  zindex="5"  ]
-[chara_layer  name="miko"  part="汗"  id="none"  storage="none"  zindex="5"  ]
+;ase
+[chara_layer  name="miko"  part="ase"  id="1"  storage="_chara/miko/ase/1.png"  zindex="5"  ]
+[chara_layer  name="miko"  part="ase"  id="none"  storage="none"  zindex="5"  ]
 
 
 
